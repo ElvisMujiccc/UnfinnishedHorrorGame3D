@@ -5,7 +5,7 @@ Why? Because I myself am a huge lover of video games especially horror games, so
 # Where will I be able to play that game?
 For now the game will be released on PC's Steam. 
 # From June 2022 on you can wishlist this game on Steam and see the actual gameplay!
-On June 2022, the game will be added on Steam as "Coming soon" and you will be able to wishlist the game and be notified when the game comes out!
+The game will be added on Steam as "Coming soon" and you will be able to wishlist the game and be notified when the game comes out!
 
 Right now all I can give you is a little sneak peak of some of my scripts for the game.
 Remember it's only a sneak peak of the code, not everything is there, just like Krabby Patty has a secret formula, so do I ;)
