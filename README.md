@@ -4,7 +4,7 @@ Hello everyone, I am making a 3D horror game, which should be finished at the en
 Why? Because I myself am a huge lover of video games especially horror games, so I'm using all the knowledge and mistakes from other people and making it into one better game. The game will have an amazing movie type story, dialogue, jumpscares, shooting, fighting, puzzles, plot twists and much more
 # Where will I be able to play that game?
 For now the game will be released on PC's Steam. 
-# From June 2022 on you can wishlist this game on Steam and see the actual gameplay!
+# Soon you will be able to wishlist this game on Steam and see the actual gameplay!
 The game will be added on Steam as "Coming soon" and you will be able to wishlist the game and be notified when the game comes out!
 
 Right now all I can give you is a little sneak peak of some of my scripts for the game.
